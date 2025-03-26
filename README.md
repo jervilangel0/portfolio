@@ -3,7 +3,7 @@
 San Jose Del Monte, Bulacan  
 Email: deleonangelojervil@gmail.com | Phone: 09625865208  
 LinkedIn: [linkedin.com/in/jervilangelo](https://linkedin.com/in/jervilangelo)  
-GitHub: [github.com/YOUR-GITHUB-USERNAME](https://jervilangel0.github.io/portfolio/)  
+GitHub: [jervilangel0.github.io/portfolio/](https://jervilangel0.github.io/portfolio/)  
 
 ---
 
