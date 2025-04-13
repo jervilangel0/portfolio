@@ -1,4 +1,4 @@
-# Jervil Angelo D. De Leon – System Administrator in Progress  
+# Jervil Angelo D. De Leon – Aspiring Network Engineer | IT Infrastructure Enthusiast
 
 Sampaloc, Manila 
 Email: deleonangelojervil@gmail.com | Phone: 0962-586-5208  
