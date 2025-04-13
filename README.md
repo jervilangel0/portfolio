@@ -10,11 +10,6 @@ GitHub: [jervilangel0.github.io/portfolio/](https://jervilangel0.github.io/portf
 ## About Me  
 Recent BSIT graduate from FEU Institute of Technology with a strong interest in System Administration, Network Engineering, and IT Infrastructure. Eager to apply technical skills in an entry-level IT role and grow into a career in systems and network operations. Open to IT Support or similar roles for hands-on experience and development.
 
-LinkedIn: linkedin.com/in/jervilangelo
-GitHub: jervilangel0.github.io/portfolio/
-
-I am highly adaptable and open to learning new technologies, including different operating systems, cloud platforms, and automation tools. I welcome the opportunity to be trained and mentored in a professional environment. I am also open to roles as an IT Staff or any position where I can gain valuable experience and grow within the field.
-
 ---
 
 ## Education  
@@ -65,4 +60,6 @@ Bachelor of Science in Information Technology – Specialization in Animation an
 ---
 
 ## Contact  
-I am actively seeking opportunities to grow in the field of System Administration. I am eager to be trained and gain real-world experience in IT infrastructure, networking, and automation. If you're looking for a motivated individual willing to learn and contribute, feel free to reach out.  
+Email: deleonangelojervil@gmail.com | Phone: 0962-586-5208  
+LinkedIn: [linkedin.com/in/jervilangelo](https://linkedin.com/in/jervilangelo)  
+GitHub: [jervilangel0.github.io/portfolio/](https://jervilangel0.github.io/portfolio/)  
