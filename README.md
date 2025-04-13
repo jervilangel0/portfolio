@@ -1,6 +1,7 @@
 # Jervil Angelo D. De Leon – Aspiring Network Engineer | IT Infrastructure Enthusiast
 
 Sampaloc, Manila 
+
 Email: deleonangelojervil@gmail.com | Phone: 0962-586-5208  
 LinkedIn: [linkedin.com/in/jervilangelo](https://linkedin.com/in/jervilangelo)  
 GitHub: [jervilangel0.github.io/portfolio/](https://jervilangel0.github.io/portfolio/)  
