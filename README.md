@@ -8,7 +8,10 @@ GitHub: [jervilangel0.github.io/portfolio/](https://jervilangel0.github.io/portf
 ---
 
 ## About Me  
-I am a recent BSIT graduate from FEU Institute of Technology with a specialization in Animation and Game Development. While my academic background includes programming and multimedia, I am now focused on pursuing a career in System Administration. I have built small homelabs to practice IT infrastructure concepts and am eager to expand my knowledge through hands-on training.
+Recent BSIT graduate from FEU Institute of Technology with a strong interest in System Administration, Network Engineering, and IT Infrastructure. Eager to apply technical skills in an entry-level IT role and grow into a career in systems and network operations. Open to IT Support or similar roles for hands-on experience and development.
+
+LinkedIn: linkedin.com/in/jervilangelo
+GitHub: jervilangel0.github.io/portfolio/
 
 I am highly adaptable and open to learning new technologies, including different operating systems, cloud platforms, and automation tools. I welcome the opportunity to be trained and mentored in a professional environment. I am also open to roles as an IT Staff or any position where I can gain valuable experience and grow within the field.
 
