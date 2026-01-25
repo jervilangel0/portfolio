@@ -1,4 +1,4 @@
-# Jervil Angelo D. De Leon – Aspiring Network Engineer | IT Infrastructure Enthusiast
+# Jervil Angelo D. De Leon – BSIT Graduate | IT Support / Network Admin Track | CCNA Student
 
 Sampaloc, Manila 
 
@@ -9,7 +9,8 @@ GitHub: [jervilangel0.github.io/portfolio/](https://jervilangel0.github.io/portf
 ---
 
 ## About Me  
-Recent BSIT graduate from FEU Institute of Technology with a strong interest in System Administration, Network Engineering, and IT Infrastructure. Eager to apply technical skills in an entry-level IT role and grow into a career in systems and network operations. Open to IT Support or similar roles for hands-on experience and development.
+BSIT graduate and Onsite Technical Support Engineer with growing experience in troubleshooting, hardware/software support, and basic network administration. I’m currently preparing for the CCNA to strengthen my fundamentals in routing, switching, and network security.
+I’m passionate about IT infrastructure and aim to transition into network or systems administration roles as I continue learning and sharpening my skills.
 
 ---
 
